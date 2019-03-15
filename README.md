@@ -4,8 +4,8 @@
   -redis
   -swagger2
 ## 功能
-  > add
+  >add
   >> 添加商品的方法，用来将将物品添加到redis中，score默认为 0
-  >  show
+  >show
   >> 显示所有的商品，
 
